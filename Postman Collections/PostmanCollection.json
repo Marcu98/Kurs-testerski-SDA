@@ -297,7 +297,7 @@
 					"raw": ""
 				},
 				"url": {
-					"raw": "https://api.trello.com/1/checklists/64c646c9012cbf86057105e5?idChecklist=64c646c9012cbf86057105e5&key={{APIKey}}&token={{Token}}",
+					"raw": "https://api.trello.com/1/checklists/64c646c9012cbf86057105e5?key={{APIKey}}&token={{Token}}&name=update",
 					"protocol": "https",
 					"host": [
 						"api",
@@ -311,16 +311,16 @@
 					],
 					"query": [
 						{
-							"key": "idChecklist",
-							"value": "64c646c9012cbf86057105e5"
-						},
-						{
 							"key": "key",
 							"value": "{{APIKey}}"
 						},
 						{
 							"key": "token",
 							"value": "{{Token}}"
+						},
+						{
+							"key": "name",
+							"value": "update"
 						}
 					]
 				}
