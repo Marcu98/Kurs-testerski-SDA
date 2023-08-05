@@ -446,13 +446,11 @@
 						},
 						{
 							"key": "name",
-							"value": "organizacja",
-							"type": "text"
+							"value": "organizacja"
 						},
 						{
 							"key": "desc",
-							"value": "pierwsza description",
-							"type": "text"
+							"value": "pierwsza description"
 						}
 					]
 				}
